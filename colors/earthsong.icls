@@ -1,7 +1,8 @@
 <scheme name="Earthsong" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
@@ -1006,6 +1007,9 @@
       <value>
         <option name="FOREGROUND" value="db784d" />
       </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value />
     </option>
     <option name="PHP_TAG">
       <value>
