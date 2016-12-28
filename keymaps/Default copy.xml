@@ -45,11 +45,16 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark4" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -58,6 +63,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="RecentFiles">
@@ -72,6 +81,10 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResizeToolWindowDown" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -91,8 +104,5 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory" />
-  <action id="ViewNavigationBar">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
