@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="San Francisco Text" />
+    <option name="FONT_FACE" value="Menlo" />
     <option name="FONT_SIZE" value="14" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
