@@ -1,12 +1,8 @@
 <application>
   <component name="PomodoroState">
-    <option name="mode" value="RUN" />
-    <option name="progress">
-      <Duration />
-    </option>
-    <option lastState="lastMode" value="RUN" />
-    <option startTime="startTime" value="1490602157556" />
-    <option lastUpdateTime="lastUpdateTime" value="1490603510352" />
-    <option pomodorosAmount="pomodorosAmount" value="4" />
+    <option name="pomodorosTillLongBreak" value="3" />
+    <option startTime="startTime" value="1490603657961" />
+    <option lastUpdateTime="lastUpdateTime" value="1490603958195" />
+    <option pomodorosAmount="pomodorosAmount" value="5" />
   </component>
 </application>
