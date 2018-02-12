@@ -1,12 +1,4 @@
 <scheme name="_@user_Material Theme - Lighter" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="created">2017-11-07T12:35:52</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-11-07T12:51:55</property>
-    <property name="originalScheme">Material Theme - Lighter</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -1252,9 +1244,6 @@
         <option name="FOREGROUND" value="7c4dff" />
       </value>
     </option>
-    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-      <value />
-    </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FOREGROUND" value="39adb5" />
@@ -1411,9 +1400,6 @@
         <option name="FOREGROUND" value="7c4dff" />
       </value>
     </option>
-    <option name="MARKDOWN_CODE_FENCE">
-      <value />
-    </option>
     <option name="MARKDOWN_CODE_SPAN">
       <value>
         <option name="FOREGROUND" value="7c4dff" />
@@ -1530,9 +1516,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="MARKDOWN_LIST_MARKER">
-      <value />
-    </option>
     <option name="MARKDOWN_REFERENCE_LINK">
       <value>
         <option name="FOREGROUND" value="f76d47" />
@@ -1544,9 +1527,6 @@
         <option name="EFFECT_COLOR" value="a2a2a2" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
-    </option>
-    <option name="MARKDOWN_TABLE_SEPARATOR">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -1798,9 +1778,6 @@
         <option name="FOREGROUND" value="b0bec5" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="PHP_CONCATENATION">
-      <value />
     </option>
     <option name="PHP_CONSTANT">
       <value>
@@ -2259,9 +2236,6 @@
         <option name="FOREGROUND" value="39adb5" />
       </value>
     </option>
-    <option name="RUBY_ESCAPE_SEQUENCE">
-      <value />
-    </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
         <option name="FOREGROUND" value="39adb5" />
@@ -2429,9 +2403,6 @@
         <option name="FOREGROUND" value="ffb62c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
-      <value />
     </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value>

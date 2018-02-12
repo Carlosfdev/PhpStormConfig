@@ -1,5 +1,4 @@
 <scheme name="Azure" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -56,12 +55,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ATTR_INTERNAL_CALL_ID">
-      <value>
-        <option name="FOREGROUND" value="a2cff5" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="c81414" />
@@ -108,9 +101,6 @@
       <value>
         <option name="FOREGROUND" value="629755" />
       </value>
-    </option>
-    <option name="BNF_TOKEN">
-      <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -372,20 +362,11 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="Class">
-      <value />
-    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="414d62" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
@@ -418,9 +399,6 @@
       <value>
         <option name="FOREGROUND" value="5c6b86" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -478,9 +456,6 @@
       <value>
         <option name="FOREGROUND" value="508aaa" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -598,9 +573,6 @@
         <option name="FOREGROUND" value="db4233" />
       </value>
     </option>
-    <option name="GRADLE_NO_CHANGE">
-      <value />
-    </option>
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="508aaa" />
@@ -610,9 +582,6 @@
       <value>
         <option name="FOREGROUND" value="6a8759" />
       </value>
-    </option>
-    <option name="Groovy method declaration">
-      <value />
     </option>
     <option name="Groovydoc comment">
       <value>
@@ -743,9 +712,6 @@
         <option name="BACKGROUND" value="3a4753" />
       </value>
     </option>
-    <option name="INSPECTION_MULTIPLE_RESOLVE_WARNING_ID">
-      <value />
-    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="52708b" />
@@ -798,9 +764,6 @@
         <option name="FOREGROUND" value="414d62" />
       </value>
     </option>
-    <option name="JAVA_DOC_MARKUP">
-      <value />
-    </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -843,17 +806,11 @@
         <option name="FOREGROUND" value="508aaa" />
       </value>
     </option>
-    <option name="JFLEX.JAVA_CODE">
-      <value />
-    </option>
     <option name="JFLEX.OPTION_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c69d9d" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JFLEX.OPTION_PARAMETER">
-      <value />
     </option>
     <option name="JFLEX.OPTION_SIGN">
       <value>
@@ -871,9 +828,6 @@
         <option name="FOREGROUND" value="658665" />
       </value>
     </option>
-    <option name="JFLEX_COMMA">
-      <value />
-    </option>
     <option name="JFLEX_MACROS">
       <value>
         <option name="FOREGROUND" value="c63c41" />
@@ -884,12 +838,6 @@
       <value>
         <option name="FOREGROUND" value="52708b" />
       </value>
-    </option>
-    <option name="JFLEX_OPTION_BACKGROUND">
-      <value />
-    </option>
-    <option name="JFLEX_REGEXP_BACKGROUND">
-      <value />
     </option>
     <option name="JFLEX_REGEXP_CLASS_SYMBOL">
       <value>
@@ -907,9 +855,6 @@
         <option name="FOREGROUND" value="658665" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JS.ATTRIBUTE">
-      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
@@ -976,9 +921,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -1079,9 +1021,6 @@
         <option name="FOREGROUND" value="6a7f8b" />
       </value>
     </option>
-    <option name="PHP_PARAMETER">
-      <value />
-    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="508aaa" />
@@ -1123,9 +1062,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="PROPERTIES.VALID_STRING_ESCAPE">
-      <value />
-    </option>
     <option name="PROPERTIES.VALUE">
       <value>
         <option name="FOREGROUND" value="64aeb3" />
@@ -1139,16 +1075,6 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="8888c6" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACES">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="REGEXP.CHAR_CLASS">
@@ -1175,11 +1101,6 @@
       <value>
         <option name="FOREGROUND" value="508aaa" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REGEXP.PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
@@ -1214,25 +1135,10 @@
         <option name="BACKGROUND" value="181d26" />
       </value>
     </option>
-    <option name="SASS_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="6d9cbe" />
-      </value>
-    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="bc9455" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SASS_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-      </value>
-    </option>
-    <option name="SASS_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
     <option name="SASS_MIXIN">
@@ -1246,11 +1152,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="SASS_RULE">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="SASS_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -1260,132 +1161,6 @@
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
       </value>
-    </option>
-    <option name="SCOPE_KEY_All">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_CIDR">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_CVS plugin">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Changed Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Default">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Evaluation fixes.">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_IDEA Test Sources">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_IDEA sources">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_JDK">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_JavaEE openapi">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Non-Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Problems">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Production">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Ruby">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Tests">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Weblogic sources">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_community">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_community except testdata">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_copyright">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_evaluation">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_everywhere except JavaEE">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_everywhere except junit4">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_flask plugin">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_foreach debugging">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_foreach debugging ">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_gdb device timeout on start">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_idea openapi">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_ignore">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_introduce typedef">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_javascript">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_junit 4 features">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_libraries.except.jdk">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_lldb-92">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_platform API">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_psi">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_runtime.classes">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_stl">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_svnPlugins">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_type name construction">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_types resolve">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_util-rt">
-      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -1435,21 +1210,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Scala Type Alias">
-      <value>
-        <option name="FOREGROUND" value="4e807d" />
-      </value>
-    </option>
-    <option name="Scala Type parameter">
-      <value>
-        <option name="FOREGROUND" value="4e807d" />
-      </value>
-    </option>
     <option name="Static field">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -1473,12 +1233,6 @@
     <option name="String">
       <value>
         <option name="FOREGROUND" value="64aeb3" />
-      </value>
-    </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
@@ -1546,12 +1300,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="508aaa" />
@@ -1561,11 +1309,6 @@
     <option name="VELOCITY_NUMBER">
       <value>
         <option name="FOREGROUND" value="64aeb3" />
-      </value>
-    </option>
-    <option name="VELOCITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
@@ -1721,18 +1464,6 @@
       <value>
         <option name="FOREGROUND" value="a5c261" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="osmorc.attributeName">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="osmorc.directiveName">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="osmorc.headerName">
