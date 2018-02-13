@@ -1,12 +1,4 @@
 <scheme name="Material Custom" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="created">2017-05-29T12:29:43</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-06-27T09:44:39</property>
-    <property name="originalScheme">_@user_Material Theme - Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -700,9 +692,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Instance field">
-      <value />
-    </option>
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -842,28 +831,10 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value />
-    </option>
-    <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
     <option name="KOTLIN_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value />
     </option>
     <option name="LABEL">
       <value>
@@ -1055,9 +1026,6 @@
       <value>
         <option name="FOREGROUND" value="e3e2e0" />
       </value>
-    </option>
-    <option name="PHP_COMMA">
-      <value />
     </option>
     <option name="PHP_CONSTANT">
       <value>

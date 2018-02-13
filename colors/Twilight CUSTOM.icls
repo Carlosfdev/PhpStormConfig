@@ -1,12 +1,5 @@
 <scheme name="Twilight CUSTOM" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="created">2017-05-29T11:59:40</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-06-27T10:07:47</property>
-    <property name="originalScheme">_@user_Twilight</property>
-  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -1077,9 +1070,6 @@
       <value>
         <option name="FOREGROUND" value="7587a6" />
       </value>
-    </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="PHP_VAR">
       <value>

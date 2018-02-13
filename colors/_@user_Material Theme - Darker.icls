@@ -1,12 +1,4 @@
 <scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="created">2017-07-04T09:35:30</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-04T17:35:51</property>
-    <property name="originalScheme">Material Theme - Darker</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -1110,41 +1102,20 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="KOTLIN_BACKING_FIELD_VARIABLE">
-      <value />
-    </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="82aaff" />
       </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-      <value />
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value />
     </option>
     <option name="LABEL">
       <value>
@@ -1294,9 +1265,6 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="MARKDOWN_CODE_FENCE">
-      <value />
-    </option>
     <option name="MARKDOWN_CODE_SPAN">
       <value>
         <option name="FOREGROUND" value="c792ea" />
@@ -1420,9 +1388,6 @@
         <option name="EFFECT_COLOR" value="a2a2a2" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
-    </option>
-    <option name="MARKDOWN_TABLE_SEPARATOR">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -1699,9 +1664,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_ESCAPE_SEQUENCE">
-      <value />
-    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
@@ -1818,9 +1780,6 @@
       <value>
         <option name="FOREGROUND" value="eeffff" />
       </value>
-    </option>
-    <option name="PHP_VAR_VAR">
-      <value />
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
@@ -2190,9 +2149,6 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="RUBY_ESCAPE_SEQUENCE">
-      <value />
-    </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -2552,9 +2508,6 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
-    </option>
-    <option name="Scala Valid escape in string">
-      <value />
     </option>
     <option name="Scala XML attribute name">
       <value>
