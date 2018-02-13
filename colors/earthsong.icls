@@ -1,4 +1,5 @@
 <scheme name="Earthsong" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -1118,6 +1119,9 @@
       <value>
         <option name="FOREGROUND" value="fcfff2" />
       </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value />
     </option>
     <option name="PHP_PARENTHESES">
       <value>
