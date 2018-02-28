@@ -4,7 +4,7 @@
     <property name="created">2018-02-28T14:04:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-02-28T16:41:19</property>
+    <property name="modified">2018-02-28T17:24:47</property>
     <property name="originalScheme">Material Theme - Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1031,9 +1031,24 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
+    <option name="PHP_BRACES">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
+    <option name="PHP_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
     <option name="PHP_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="PHP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -1047,9 +1062,32 @@
         <option name="FOREGROUND" value="2c9ea7" />
       </value>
     </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="80cbc4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
+      </value>
+    </option>
+    <option name="PHP_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="798194" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PHP_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="PHP_TAG">
