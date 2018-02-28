@@ -4,7 +4,7 @@
     <property name="created">2018-02-28T14:04:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-02-28T14:05:26</property>
+    <property name="modified">2018-02-28T16:41:19</property>
     <property name="originalScheme">Material Theme - Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -386,7 +386,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="d38971" />
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -423,7 +423,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d38971" />
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -438,7 +438,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="d38971" />
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
