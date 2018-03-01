@@ -4,7 +4,7 @@
     <property name="created">2018-02-28T14:04:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-03-01T09:40:42</property>
+    <property name="modified">2018-03-01T16:25:37</property>
     <property name="originalScheme">Material Theme - Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1092,7 +1092,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="be2c23" />
+        <option name="FOREGROUND" value="d36e7a" />
       </value>
     </option>
     <option name="PHP_VAR">
