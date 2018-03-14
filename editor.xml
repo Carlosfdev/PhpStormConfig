@@ -6,8 +6,4 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingLevelCount" value="1" />
-    <option name="tagTreeHighlightingOpacity" value="30" />
-  </component>
 </application>
