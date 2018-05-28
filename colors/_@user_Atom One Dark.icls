@@ -4,7 +4,7 @@
     <property name="created">2018-05-28T09:45:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-05-28T13:31:45</property>
+    <property name="modified">2018-05-28T16:44:14</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2608,7 +2608,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="e1bd7a" />
       </value>
     </option>
     <option name="PHP_PARENTHESES">
@@ -2643,7 +2643,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="b9ffd2" />
+        <option name="FOREGROUND" value="fffaa6" />
       </value>
     </option>
     <option name="PHP_TAG">
