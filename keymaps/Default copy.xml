@@ -28,13 +28,11 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
-  <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="ParameterInfo" />
   <action id="QuickImplementations">
