@@ -1,4 +1,5 @@
 <scheme name="Kiwi" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -1002,6 +1003,11 @@
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="229986" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="229986" />
       </value>
