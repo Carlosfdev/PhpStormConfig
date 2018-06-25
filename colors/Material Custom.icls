@@ -15,7 +15,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CARET_COLOR" value="32424a" />
+    <option name="CARET_COLOR" value="fafafa" />
     <option name="CARET_ROW_COLOR" value="222f35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
@@ -648,7 +648,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="495b7b" />
+        <option name="BACKGROUND" value="2a4c61" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1723,7 +1723,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="495b7b" />
+        <option name="BACKGROUND" value="2a4c61" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
