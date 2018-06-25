@@ -953,7 +953,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
+        <option name="EFFECT_COLOR" value="61aed7" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1716,8 +1716,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1e2b31" />
-        <option name="EFFECT_COLOR" value="e6a247" />
-        <option name="ERROR_STRIPE_COLOR" value="e6a247" />
+        <option name="EFFECT_COLOR" value="a27636" />
+        <option name="ERROR_STRIPE_COLOR" value="a27636" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
