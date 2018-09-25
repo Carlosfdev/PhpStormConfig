@@ -34,7 +34,9 @@
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta n_with_tilde" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
