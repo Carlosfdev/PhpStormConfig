@@ -1,13 +1,15 @@
 <scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.5" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
